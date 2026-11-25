@@ -1,0 +1,1 @@
+{"description":"Tiny SOL trading bot for the make.fun bounty 'Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana' — snap-back dip buys plus trend rides on hourly Solana bars.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"makefun-tiny-bot-gorun","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
